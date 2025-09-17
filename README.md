@@ -1,2 +1,2 @@
 # PokemonQuiz
-Rizal Herudin
+Tugas kuliah semester 1
